@@ -1,0 +1,30 @@
+h2{
+    text-align: center;
+    color: rgb(48, 13, 206);
+}
+body{
+    background-color: rgba(165, 223, 154, 0.76);
+}
+.box1{
+padding: 20px 10px 20px 10px;
+margin: 0px 80px 0px 0px;
+}
+.box2{
+    padding: 0px;
+    margin: 0px 0px 0px 142px;
+    background-color:#e96c18;
+}
+h1{
+    color:#710096;
+}
+p{
+    text-align:justify;
+    text-indent: 15%;
+}
+.img1{
+    border: solid black 3px;
+    border-radius: 10px;
+}
+h4{
+    color:#cc313d;
+}
